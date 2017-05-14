@@ -1,0 +1,24 @@
+{
+  "name": "metadata",
+  "version": "1.0.0",
+  "description": "file size info service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "express",
+    "javascript",
+    "json",
+    "file",
+    "upload"
+  ],
+  "author": "Zoran Stanic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "multer": "^1.3.0"
+  }
+}
